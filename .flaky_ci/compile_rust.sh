@@ -1,1 +1,1 @@
-cargo check && cargo build --release
+cd heavy_project && cargo check && cargo build --release 
